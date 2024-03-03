@@ -42,5 +42,6 @@ if ($stmt) {
         echo "Numeros ja escolhidos, escolha novamente ";
     }
     
+    
 $conn->close();
 ?>
